@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Hello world!
+line from user2
 55577
 line from user2
 line from user1
