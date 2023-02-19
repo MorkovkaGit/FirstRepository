@@ -1,4 +1,4 @@
 Hello world!
 55577
-Goodbye!
+line from user2
 line from user1
