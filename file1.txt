@@ -1,3 +1,9 @@
 Hello world!
+<<<<<<< HEAD
 Goodbye!
 
+=======
+55577
+Goodbye!
+line from user1
+>>>>>>> 2eb2dede0f412be4ff4a13aedc7bfa3ec88fa3e5
