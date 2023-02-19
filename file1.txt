@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 another line from user1
+line from user2
 55577
 line from user2
 line from user1
-=======
 Hello world!
->>>>>>> 49829628007092ee3614807c44b1b893081152aa
+
