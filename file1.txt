@@ -1,12 +1,1 @@
-<<<<<<< HEAD
-Hello world!
-some new feature!
-=======
-another line from user1
-line from user2
-55577
-line from user2
-line from user1
-Hello world!
-
->>>>>>> d88bef6ed4b555b48f907c82fb3251cec1451f02
+Some new feature
