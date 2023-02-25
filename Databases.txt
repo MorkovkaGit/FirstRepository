@@ -1,3 +1,11 @@
+Импорт БД:
+C:\Users\Дима\Desktop\Database>"D:\PostreSQL\bin\psql" -U postgres -f books_repository.sql
+
+Где:
+C:\Users\Дима\Desktop\Database> - место расположения БД
+"D:\PostreSQL\bin\psql" - место расположения программы с exe файлом psql
+
+
 runpsql - подключение к БД через консоль
 \с (название БД) - переключение между БД
 \l - просмотр всех БД
