@@ -16,9 +16,11 @@ runpsql - подключение к БД через консоль
 Дамп БД:
 
 D:\PostreSQL\bin>pg_dump -U postgres -d flight_repository > flight_repository.sql
+(Linux) pg_dump --host=localhost --dbname=books --username=postgres > books1.sql
 
 Где:
 D:\PostreSQL\bin> - каталог где лежит exe файл pd_dump
 
 -U - имя пользователя БД
 -d - название БД
+ALTER USER postgres WITH PASSWORD 'new_password'; - смена пароля текущего пользователя в терминале
