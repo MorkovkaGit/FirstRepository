@@ -24,3 +24,7 @@ D:\PostreSQL\bin> - каталог где лежит exe файл pd_dump
 -U - имя пользователя БД
 -d - название БД
 ALTER USER postgres WITH PASSWORD 'new_password'; - смена пароля текущего пользователя в терминале
+
+Импорт БД:
+psql -h localhost -d flight_repository -U postgres -W -f /home/dmitry/flight_repository.sql
+
