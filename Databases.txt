@@ -1,5 +1,5 @@
 Импорт БД:
-C:\Users\Дима\Desktop\Database>"D:\PostreSQL\bin\psql" -U postgres -f books_repository.sql
+C:\Users\Дима\Desktop\Database>"D:\PostgreSQL\bin\psql" -U postgres -d flight_repository -f flight_repository.sql
 
 Где:
 C:\Users\Дима\Desktop\Database> - место расположения БД
