@@ -28,3 +28,5 @@ ALTER USER postgres WITH PASSWORD 'new_password'; - смена пароля те
 Импорт БД:
 psql -h localhost -d flight_repository -U postgres -W -f /home/dmitry/flight_repository.sql
 
+Сделать алиас cmder:
+alias psql=cd /d "D:\Psql\bin\"
