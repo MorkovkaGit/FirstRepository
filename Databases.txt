@@ -1,5 +1,7 @@
 Импорт БД:
 C:\Users\Дима\Desktop\Database>"D:\PostgreSQL\bin\psql" -U postgres -d flight_repository -f flight_repository.sql
+OR
+psql -h localhost -U postgres -d postdata -f D:\Backup\database.sql
 
 Где:
 C:\Users\Дима\Desktop\Database> - место расположения БД
