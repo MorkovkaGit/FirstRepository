@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven 3.9.1
+Built-By: dmitry
+Build-Jdk: 17.0.6
+Class-Path: lib/database-1.0-SNAPSHOT.jar
+Main-Class: service.AppRunner
+
